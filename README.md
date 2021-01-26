@@ -33,17 +33,23 @@
 
 Se você quer usar esse repositório, a primeira coisa a ser feita é um `git clone` para a sua máquina:
 
->
-> 1. git clone --depth 1 <https://github.com/lpmatos/loli.git> -b main
->
+```bash
+git clone --depth 1 <https://github.com/lpmatos/loli.git> -b main
+```
 
-Com ele você terá acesso a tudo que está no servidor remoto do git, localmente em sua máquina.
+Com isso você terá acesso a tudo que está aqui, localmente em sua máquina.
 
 ## ➤ Descrição
 
 Quais seriam os primeiros passos para se levar em consideração no início de uma análise de ambiente? É com essa pergunta que esse repositório foi criado. A intenção aqui é abordar o passo a passo que qualquer administrador de ambiente Linux deveria seguir quando iniciasse um troubleshooting em um servidor.
 
 Cotidianamento, administradores de ambientes Linux estão acostumados a receber tickets de support, reclamações ou até mesmo nossos sistemas de monitoramente, que nos retornão feedbacks de possíveis problemas em nossos ambientes. Sem saber qual é o problema e sem saber nada do cenário, quais serão os passos a serem feitos para validarmos a situação?
+
+## ➤ Objetivos
+
+- ✔️ Definir os primeiros passos antes do inicio do Troubleshooting.
+- ✔️ Citar os comandos mais utilizados.
+- ✔️ Dar detalhes dos comandos mais utilizados.
 
 ## ➤ Versionamento
 
@@ -62,3 +68,15 @@ Fala tu!! Se você curtiu esse projeto e quiser entrar em contato comigo, esses 
 > * GitLab: [@lpmatos](https://gitlab.com/lpmatos)
 > * LinkedIn: [@luccapessoa](https://www.linkedin.com/in/luccapessoa/)
 >
+
+## ➤ Aviso
+
+Esse repositório possui fins estudantis/demonstrativos, podendo ou não ser adequado para o seu projeto!
+
+## ➤ Mostre seu suporte!
+
+Dê uma ⭐️ se esse projeto te ajudou de alguma forma!
+
+---
+
+Esse [README](README.md) for criado com ❤️ por [mim](https://github.com/lpmatos) tendo inspiração no [readme-md-generator](https://github.com/kefranabg/readme-md-generator).
