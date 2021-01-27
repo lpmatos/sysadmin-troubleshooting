@@ -18,9 +18,6 @@
   <a href="http://commitizen.github.io/cz-cli/">
     <img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg">
   </a>
-  <a href="https://github.com/lpmatos/loli/actions">
-    <img alt="Latest Release" src="https://img.shields.io/github/v/release/lpmatos/Loli">
-  </a>
 </p>
 
 <p align="center">
