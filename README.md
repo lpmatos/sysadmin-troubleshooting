@@ -55,6 +55,12 @@ Cotidianamento, administradores de ambientes Linux estão acostumados a receber 
 
 - [🗲 Iniciando](./docs/1%20-%20Iniciando.md)
 
+## ➤ O que será aprendido? 
+
+- Linux básico.
+- Comandos default de sistemas operacionais Unix.
+- Boas práticas para iniciar um processo de incidente em ambientes Linux.
+
 ## ➤ Versionamento
 
 🚨 Ainda não temos um arquivo [**CHANGELOG.md**](CHANGELOG.md) gerado 🚨.
